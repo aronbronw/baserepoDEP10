@@ -1,0 +1,16 @@
+{
+    "nombre_tabla_00": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_ajustes",
+    "nombre_tabla_01": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_cuenta_articulo",
+    "nombre_tabla_02": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_forzar_articulos",
+    "nombre_tabla_03": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_glg",
+    "nombre_tabla_04": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_ls_vpe",
+    "nombre_tabla_05": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_palabra_clave",
+    "nombre_tabla_06": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_ppto_hc",
+    "nombre_tabla_07": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_proveedores_nombre",
+    "nombre_tabla_08": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_real_hc",
+    "nombre_tabla_09": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_t1",
+    "nombre_tabla_10": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_t2",
+    "nombre_tabla_11": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_tc_otros",
+    "nombre_tabla_12": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_tc_prom_anual",
+    "nombre_tabla_13": "rs-prd-dlk-dd-rawzone-a40f.de__produccion.de_gastos_vpe"
+}
